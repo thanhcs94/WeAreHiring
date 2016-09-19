@@ -53,7 +53,7 @@ Because we know that teamwork is one of important factor to be successful. We re
    * you want to build a world class products and superb team.
 * we'd love to see who you are and what have you been working on
 * write more detailed info related to the position you're applying for
-* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribble...)
+* make sure you enter links to your public profiles (i.e. Linkedin, Twitter, GitHub, personal Blog, Behance, Dribbble...)
 * don't forget to attach portfolio of projects you've been working on (ideally with links for AppStore/PlayStore)
 * attach references, if you have any
 
